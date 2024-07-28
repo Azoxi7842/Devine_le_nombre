@@ -3,7 +3,7 @@ import random
 
 secret_number = random.randint(1, 100)
 
-print("Bienvenue au jeu des nombre!")
+print("Bienvenue sur le  jeu des nombre!")
 print("Devinez le nombre entre 1 et 100")
 
 attempts = 0
